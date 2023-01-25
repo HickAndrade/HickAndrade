@@ -41,5 +41,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAndrade&layout=compact&theme=highcontrast)](https://github.com/HickAndrade/github-readme-stats)
 
 ## Contact
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-calazans/)
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:armestrongcalazans@hotmail.com) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-andrade-551842180/)
+[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henriqandrade@outlook.com) 
