@@ -38,7 +38,7 @@
 
 
 ## Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAndrade&layout=compact)](https://github.com/HickAndrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAndrade&layout=compact&theme=highcontrast)](https://github.com/HickAndrade/github-readme-stats)
 
 ## Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-calazans/)
