@@ -23,7 +23,7 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ![image](https://img.shields.io/badge/Css3-43B02A?style=for-the-badge&logo=Css3&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-232F3E?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Basic_For_Aplications-0078D6?style=for-the-badge&logo=vba&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_VBA-0078D6?style=for-the-badge&logo=vba&logoColor=white)
 
 
 ## Technologies that i have knowledge
