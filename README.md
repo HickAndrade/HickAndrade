@@ -7,6 +7,7 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ## Technologies that I am currently using
 
 ![image](https://img.shields.io/badge/React-316192?&style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/Redux-316192?&style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Express-F37626?&style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Nodejs-E34F26?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
