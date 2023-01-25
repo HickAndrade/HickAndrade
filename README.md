@@ -5,7 +5,7 @@
 <hr />
 
 ### The Tools I use
-![image](https://img.shields.io/badge/React-257EF7?&style=plastic&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/React-257EF7?&style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-9D51D1?&style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Express-1B1E3A?&style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Nodejs-88C746?style=for-the-badge&logo=nodedotjs&logoColor=white)
