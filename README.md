@@ -1,7 +1,10 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick! 
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Andrey! 
+- 🔭 I’m working on **cross-platform applications with Java/Spring, ReactJS, Apache Solr and Liquibase**.
+- 🌱 I’m currently learning **Kotlin**, **Apache Solr** and **Open Feign**.
+- 💬 Ask me about **React, Java,** and **programming stuffs**.
+<hr />
 
-## Technologies that I am currently using
-
+### The Tools I use
 ![image](https://img.shields.io/badge/React-257EF7?&style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-9D51D1?&style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Express-1B1E3A?&style=for-the-badge&logo=express&logoColor=white)
