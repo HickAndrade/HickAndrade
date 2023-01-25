@@ -1,5 +1,5 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick! 
-- 🔭 I’m working on **Protheus ERP/Web Applications with NodeJS/Express, ReactJS, Sequelize and Docker**.
+- 🔭 I’m working on **Protheus ERP** and **Web Applications with NodeJS/Express, ReactJS, Sequelize and Docker**.
 - 🌱 I’m currently practicing **software design** and **architecture patterns** with **Typescript**.
 - 💬 Ask me about **React, Java, Node** and **programming stuffs**.
 <hr />
