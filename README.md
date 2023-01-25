@@ -1,5 +1,4 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick Andrade! 
-![image](https://user-images.githubusercontent.com/28534567/117365207-55562080-ae95-11eb-9ae4-ec3207419799.png)
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick! 
 
 ## Technologies that I am currently using
 
