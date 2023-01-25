@@ -1,8 +1,5 @@
-# Hi, I'm Hick Andrade 👋🏻🏾
-
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick Andrade! 
 ![image](https://user-images.githubusercontent.com/28534567/117365207-55562080-ae95-11eb-9ae4-ec3207419799.png)
-
-I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Administração Paulista) as Analystic and Developer of Systems in 2019. Currently, I'm Fullstack Developer. Javascript lover. Learning how to ask good questions.
 
 ## Technologies that I am currently using
 
