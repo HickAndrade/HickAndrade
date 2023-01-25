@@ -38,8 +38,9 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-##Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armestrong&layout=compact&hide=HTML,javascript)](https://github.com/Armestrong/github-readme-stats)
+
+## Overview
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAndrade&layout=compact)](https://github.com/HickAndrade/github-readme-stats)
 
 ## Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-calazans/)
