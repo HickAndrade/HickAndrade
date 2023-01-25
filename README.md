@@ -6,7 +6,7 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 
 ## Technologies that I am currently using
 
-![image](https://img.shields.io/badge/Typescript?style=for-the-badge&logo=Typescript&logoColor=white)
+![image](https://img.shields.io/badge/Typescript-316192?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
