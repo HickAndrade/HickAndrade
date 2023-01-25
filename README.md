@@ -2,11 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/28534567/117365207-55562080-ae95-11eb-9ae4-ec3207419799.png)
 
-I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Administração Paulista) as Analystic and Developer of Systems in 2019. Currently, I'm Back-end and Front-end Developer and Data Scientist. Python lover. Learning how to ask good questions.
+I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Administração Paulista) as Analystic and Developer of Systems in 2019. Currently, I'm Fullstack Developer. Javascript lover. Learning how to ask good questions.
 
 ## Technologies that I am currently using
 
-![image](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=Typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
