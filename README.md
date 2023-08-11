@@ -1,7 +1,7 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's me! Hick! 
 - 🔭 I’m working on **Web Applications with typescript, Nextjs, ReactJS, prisma/sequelize and Docker**.
 - 🌱 I’m currently practicing **software design** and **architecture patterns** with **Typescript**.
-- 💬 Ask me about **React, typescript, Node** and **programming stuffs**.
+- 💬 Ask me about **React, typescript, javascript, Node** and **programming stuffs**.
 <hr />
 
 ### The Tools I use
