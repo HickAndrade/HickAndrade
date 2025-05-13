@@ -5,7 +5,7 @@
 - 💬 Ask me about **React, typescript, javascript, Node** and **programming stuffs**.
 <hr />
 
-#💻 My stack
+# My stack 💻
 
 ```js
 const Henrique = {
