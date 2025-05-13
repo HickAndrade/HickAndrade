@@ -11,19 +11,12 @@ Aqui está um resumo das minhas skills:
 ```js
 const Henrique = {
   languages: [
-    "JavaScript",
-    "TypeScript",
-    "C#","Java",
-    "ADVPL","VBA"
+    "JavaScript","TypeScript","C#","Java","ADVPL","VBA"
   ],
   technologies: {
     frontend: [
-      "React", "Next.js","Vite",
-      "Tailwind",
-      "Styled-components",
-      "Gatsby",
-      "jQuery",
-      "Figma"
+      "React", "Next.js","Vite","Tailwind","Styled-components",
+      "Gatsby","jQuery","Figma"
     ],
     backend: [
       "Node.js","Express","NestJS","Fastify","Adonis",
@@ -45,16 +38,10 @@ const Henrique = {
     ]
   },
   currentlyLearning: [
-    "Software Engineering",
-    "AWS Arch",
-    "System Design"
+    "Software Engineering","AWS Arch","System Design"
   ],
   softSkills: [
-    "Teamwork",
-    "Code Review",
-    "Problem Solving",
-    "Communication",
-    "Continuous Learning"
+    "Teamwork", "Code Review", "Problem Solving", "Communication", "Continuous Learning"
   ],
 };
 ```
