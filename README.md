@@ -1,12 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=0281FE&width=435&lines=Henrique+Andrade;Fullstack+Developer;Be+welcome!+%3A)" alt="Typing SVG" /></a>
+
 - 🔭 I’m working on **Web Applications with typescript, Nextjs, ReactJS.**
 - 🌱 I’m currently practicing **architecture patterns** with **Typescript**.
 - 💬 Ask me about **React, typescript, javascript, Node** and **programming stuffs**.
 <hr />
 
-# Meu Perfil Técnico
-
-Aqui está um resumo das minhas skills:
+#💻 My stack
 
 ```js
 const Henrique = {
